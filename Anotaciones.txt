@@ -1,0 +1,4 @@
+en una carpeta que se llame data descomprimir el archivo con las fotos dentro. Ya que no me dejaba subir las fotos al campus. 
+La estructura deberia ser
+data/Dataset_name/...
+y los modelos deberan estar en una carpeta llamada models.
