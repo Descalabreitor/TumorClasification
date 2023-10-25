@@ -1,0 +1,6 @@
+# Ignorar la carpeta 'data'
+data/
+
+# Ignorar archivos con extensión .svg
+*.svg
+*.pdf
